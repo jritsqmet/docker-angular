@@ -1,0 +1,22 @@
+{
+  "autores": [
+    {
+      "id": "1",
+      "nombre": "Gabriel",
+      "apellido": "García Márquez",
+      "email": "ggmarquez@example.com"
+    },
+    {
+      "id": "2",
+      "nombre": "J.K.",
+      "apellido": "Rowling",
+      "email": "jkrowling@example2.com"
+    },
+    {
+      "id": "3",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "email": "gorwell@example.com"
+    }
+  ]
+}
